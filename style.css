@@ -184,3 +184,13 @@ body {
 .yello-btn:hover{
   background-color: #ffdc18;
 }
+.red-btn{
+  font-size: 1.2em;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(255, 134, 134); 
+}
+.red-btn:hover{
+  background-color: #ff1818;
+}
